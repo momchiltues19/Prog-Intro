@@ -73,3 +73,34 @@ void swap_num_better(double *a, double *b)
     *a = *b;
     *b = c;
 }
+
+
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+    int month, year, day_count;
+    bool isLeap = ((year%4==0)&&(year!=100))||(year%400);
+
+    cin >> month >> year;
+
+    if(month>12||month<1||year<1)
+    {
+        cout << "Fail" << endl;
+        return 0;
+    }
+
+    switch(month)
+    {
+        case 2: if(isLeap) day_count = 29; else day_count = 28; break;
+        default: day_count = 30 + (month%2); break;
+    }
+
+    cout << day_count;
+    return 0;
+}
+
