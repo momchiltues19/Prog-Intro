@@ -25,3 +25,17 @@
 ## Task 6
 
   Write a function that checks if two strings are equal, ignoring case.
+
+## Task 7
+
+  Write a function that counts the words in a string.
+  
+## Task 8
+
+  Write a function която обхожда всички думи в string. 
+  
+## Task 8.5
+
+  Write a function that counts words, containg the letter 'a'. 
+  
+  
