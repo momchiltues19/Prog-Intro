@@ -28,7 +28,7 @@ int count_a_words(string s)
         {
             while(isalnum(s[i]))
             {
-                if(s[i]=='a'||s[i]=='A')result++;
+                if(s[i]=='a'||s[i]=='A'){result++;break;}
                 i++;
             }
         }
