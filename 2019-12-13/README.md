@@ -12,8 +12,16 @@
   
 ## Task 4
   
-  Write a funtion that reverses a string.
+  Write a function that reverses a string.
  
 ## Task 5
   
-  Write a funtion that checks if a string is a palindrome.
+  Write a function that checks if a word is a palindrome.
+
+## Task 5.5
+  
+  Write a function that checks if a string is a palindrome.
+ 
+## Task 6
+
+  Write a function that checks if two strings are equal, ignoring case.
