@@ -18,7 +18,7 @@
   
   Write a function that checks if a word is a palindrome.
 
-## Task 5.5
+### Task 5.5
   
   Write a function that checks if a string is a palindrome.
  
@@ -34,7 +34,7 @@
 
   Write a function която обхожда всички думи в string. 
   
-## Task 8.5
+### Task 8.5
 
   Write a function that counts words, containg the letter 'a'. 
   
