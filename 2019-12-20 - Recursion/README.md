@@ -18,6 +18,6 @@ Powers
 
 Faster powers
 
-#### Task 3.75
+### Task 3.75
 
 Bigger powers
