@@ -6,7 +6,7 @@ Factorial
 
 Fibonacci
 
-## Task 2.5
+### Task 2.5
 
 Diffrent Fibonacci
 
@@ -14,11 +14,10 @@ Diffrent Fibonacci
 
 Powers
 
-
-## Task 3.5
+### Task 3.5
 
 Faster powers
 
-## Task 3.75
+#### Task 3.75
 
 Bigger powers
