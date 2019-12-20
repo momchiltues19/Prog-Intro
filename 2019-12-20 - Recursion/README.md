@@ -12,4 +12,13 @@ Diffrent Fibonacci
 
 ## Task 3
 
-Big powers
+Powers
+
+
+## Task 3.5
+
+Faster powers
+
+## Task 3.75
+
+Bigger powers
